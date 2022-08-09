@@ -6,8 +6,8 @@
   "type": "module",
 
   "engines": {
-    "node": "16.9.1",
-    "npm":"7.21.1"
+    "node": "v18.1.0",
+    "npm": "8.8.0"
   },
   "scripts": {
     "start": "nodemon server.js",
